@@ -1,0 +1,13 @@
+{
+  "name": "panthreon",
+  "version": "1.0.0",
+  "description": "becoming a better and world class software engineer.",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "VickyJay",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
