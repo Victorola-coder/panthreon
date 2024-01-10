@@ -12,7 +12,7 @@
 2. Navigate to the project directory: `cd panthreon`.
 3. Install project dependencies using `npm install`.
 4. Start the development server: `npm test`.
-5. install coderunner extension on your vscode.
+5. install Code Runner[https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner] extension on your vscode.
 
 ## Usage
 
