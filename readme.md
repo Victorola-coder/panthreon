@@ -1,19 +1,19 @@
-# JS Challenges, Data Structures, and Algorithms
+# JS Challenges, Data Structures, and Algorithms.👩‍💻
 
 - Learn to solve problems with code, write efficient codes!
 
-# Questions
+# Questions🤔💭
 
 - Does the time taken for a code to run depend on the processor of the device used to code?
 
-## Setup🚀
+# Setup🚀
 
 1. Clone this repository to your local machine using `git clone`.
 2. Navigate to the project directory: `cd panthreon`.
 3. Install project dependencies using `npm install`.
 4. Start the development server: `npm test`.
-5. install Code Runner[https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner] extension on your vscode.
+5. install [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) extension on your vscode.
 
-## Usage
+# Usage👩‍🏭
 
 Feel free to contribute to this repository, i promise your Pull Request will be accepted and merged.
