@@ -16,3 +16,15 @@ const items = filteredPositive.map((item) => `<li> ${item} </li>`).join("");
 // WITH OBJECTS
 const objects = filteredPositive.map((value) => ({ value }));
 console.log(objects);
+
+// CHAINING
+
+// NOTE - you can use the chaining pattern to just map and filter  the same array simultaneously. this is possible because the two methods doesn't mutate the original array
+
+const chain = numbers
+  .filter((num) => num > 0)
+  .map((item) => `<li>${item}</li>`)
+  .join(" ");
+// you can continue to use the methods and play around
+
+console.log(chain);
