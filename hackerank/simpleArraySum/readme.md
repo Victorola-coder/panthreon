@@ -31,4 +31,4 @@ Explanation
 
 We print the sum of the array's elements: .
 
-1 + 2 +3+ 4+ 10 + 11
+1 + 2 +3+ 4+ 10 + 11 =31
