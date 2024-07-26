@@ -15,5 +15,7 @@
 5. install [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) extension on your vscode.
 
 # Usage👩‍🏭
+Im pretty sure the files and folders are easy to naviagte and read, each codes are well documented and you have idea of what is really going on, feel free to ask questions too
 
-Feel free to contribute to this repository, i promise your Pull Request will be accepted and merged.
+# Contribution 🛠
+Feel free to contribute to this repository, the little idea and correction is high appreciated, i promise your pull request will be accepted and merged.
