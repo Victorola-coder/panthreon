@@ -17,3 +17,6 @@ console.log(sum);
 
 // acc = accumulator
 // cur = current value
+
+
+//cc Mosh
